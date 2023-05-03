@@ -1,4 +1,0 @@
-Tela principal
-Tela de logi
-Tela de acesso
-Tela de relatório

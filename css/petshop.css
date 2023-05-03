@@ -1,0 +1,17 @@
+/* Arquivo de estilização do projeto PetShop */
+
+*{
+    margin : 0;
+    padding: 0;
+}
+
+header{
+    text-align: center;
+    background-image: url(../img/fundo-topo.jpg);
+    padding: 10px 0;
+}
+
+header h1{
+    margin: 0;
+    height: 84px;
+}
